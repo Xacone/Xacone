@@ -3,5 +3,3 @@
 - 🌱 I’m currently a computer science engineering student at ESIR (University of Rennes I)
 - 💞️ I’m looking to collaborate on cybersecurity projects
 - 📫 You can reach me at : yazid.benjamaa@etudiant.univ-rennes1.fr or benjamaayazid21@gmail.com
-
-<p style="width: 100; height: auto;" ><img style="width: 100; height: auto;" src="https://esir.univ-rennes1.fr/sites/esir.univ-rennes1.fr/files/esir.png"></p>
