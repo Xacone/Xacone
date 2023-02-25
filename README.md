@@ -9,4 +9,4 @@
 - 📫 You can reach me at : yazid.benjamaa@etudiant.univ-rennes1.fr or benjamaayazid21@gmail.com
 
 ![Yazid's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xacone&show_icons=true&theme=tokyonight)
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Xacone&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+<br><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Xacone&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ovi" />
