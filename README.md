@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://i.ibb.co/K2G9wCW/cha.jpg" width="80"/>
+  <img src="https://i.ibb.co/K2G9wCW/cha.jpg" width="180"/>
 </div>
 
 - 😸 Hi, I’m @Xacone (Yazid)
