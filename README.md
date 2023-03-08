@@ -3,7 +3,7 @@
 </p>
 
 😸 Hi, I’m @Xacone (Yazid) <br>
-👽 I’m interested in <b>cybersecurity</b> in its globality, <b>CTI</b> and <b>programming</b> <br>
+👽 I’m interested in <b>Cybersecurity</b> in its Globality, <b>CTI</b> and <b>Programming</b> <br>
 🌍 I’m currently a computer science engineering student at ESIR (University of Rennes) in France <br>
 📫 You can reach me at : yazid.benjamaa@etudiant.univ-rennes1.fr or benjamaayazid21@gmail.com <br>
 
