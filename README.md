@@ -7,8 +7,8 @@
 🌍 I’m currently a computer science engineering student at ESIR (University of Rennes) in France <br>
 📫 You can reach me at : yazid.benjamaa@etudiant.univ-rennes1.fr or benjamaayazid21@gmail.com <br>
 
-<a href="https://www.linkedin.com/in/yazid-benjamaa/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" width="12%"></a>
-<a href="https://app.hackthebox.com/users/1400723"><img src="https://img.shields.io/badge/-HackTheBox-%239FEF00?style=for-the-badge&logo=hackthebox&logoColor=white" alt="HackTheBox" width="14%"></a>
+<a href="https://www.linkedin.com/in/yazid-benjamaa/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" width="10%"></a>
+<a href="https://app.hackthebox.com/users/1400723"><img src="https://img.shields.io/badge/-HackTheBox-%239FEF00?style=for-the-badge&logo=hackthebox&logoColor=white" alt="HackTheBox" width="12%"></a>
 <br>
 
 <h2> ✨ Some of my public repositories ✨ </h2>
@@ -62,6 +62,7 @@
     </tr>
   </tbody>
 </table>
+<h4><i>Github & profile page under construction..🏗️🚧</i></h4>
 
 <h2> 🌐 Organizations 🚌 </h2>
 <h3><b><a href="https://github.com/ESIR2-PROJET-KEOLIS">Keolis Project</a> (ESIR)
