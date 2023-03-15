@@ -20,7 +20,6 @@
     </tr>
   </thead>
   <tbody>
-    <tr>
       <td><a href="https://github.com/Xacone/Sprototype_Base_x64_Malware_Analysis"><b>Lightweight Security Information and Event Management Tool (Basis for a future malware network activity monitoring tool)</b></a></td>
       <td><i>C++, C, QT, JavaScript, Npcap, WIN32 API, WFP.</i></td>
     </tr>
@@ -28,6 +27,11 @@
       <td><a href="https://github.com/Xacone/Sproto_Agent_WinX64"><b>Remote TCP sensor</b></a></td>
       <td><i>C++, QT.</i></td>
     </tr>
+    <tr>
+      <td><a href="https://github.com/Xacone/Sprototype_Base_x64_Malware_Analysis"><b>Linux System Information Harvesting Tool through LFI vulnerability</b></a></td>
+      <td><i>C++, C, QT, JavaScript, Npcap, WIN32 API, WFP.</i></td>
+    </tr>
+    <tr>
     <tr>
       <td><a href="https://github.com/Xacone/REMOTE-DLL-UNHOOKER"><b>(POC) Simple DLL-Unhooked Reverse Shell for Antivirus Evasion</b></a></td>
       <td><i>C++.</i></td>
