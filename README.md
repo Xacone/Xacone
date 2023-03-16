@@ -45,7 +45,7 @@
       <td><i>Docker, Quarkus, Maven, RabbitMQ, NestJS, Angular, Nginx, PostgreSQL, Terraform.</i></td>
     </tr>
     <tr>
-      <td><a href=""><b>Data Engineering Project - Malware Analysis <i>(Academic Project)</i></b></a></td>
+      <td><a href="https://github.com/J-Bindel/DE_MITRE_MALWARE"><b>Data Engineering Project - Malware Analysis <i>(Academic Project)</i></b></a></td>
       <td><i>MITRE ATT&CK, WIN32 API, Python, Numpy, Pandas, BeautifulSoup.</i></td>
     </tr>
     <tr>
