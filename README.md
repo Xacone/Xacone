@@ -37,6 +37,10 @@
       <td><i>C++.</i></td>
     </tr>
     <tr>
+        <td><a href=""><b>Windows Executable Information Extractor for Threat Hunting</b></a></td>
+        <td><i>Python, pyshark, win32evtlog</i></td>
+    </tr>
+    <tr>
       <td><a href="https://github.com/ESIR2-PROJET-KEOLIS/processing-storage-unit"><b>Real-Time Data Processing Unit & API<i> (Part of a large academic project)</i></b></a></td>
       <td><i>Java, Spring, Docker, Maven, RabbitMQ, Sqlite3.</i></td>
     </tr>
