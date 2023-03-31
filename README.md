@@ -21,7 +21,7 @@
   </thead>
   <tbody>
       <td><a href="https://github.com/Xacone/Sprototype_Base_x64_Malware_Analysis"><b>Lightweight Security Information and Event Management Tool (Basis for a future malware network activity monitoring tool)</b></a></td>
-      <td><i>C++, C, QT, JavaScript, Npcap, WIN32 API, WFP.</i></td>
+      <td><i>C++, C, QT, JavaScript, Npcap, Win32 API, WFP.</i></td>
     </tr>
     <tr>
       <td><a href="https://github.com/Xacone/Sproto_Agent_WinX64"><b>Remote TCP sensor</b></a></td>
@@ -37,8 +37,8 @@
       <td><i>C++.</i></td>
     </tr>
     <tr>
-        <td><a href=""><b>Windows Executable Information Extractor for Threat Hunting</b></a></td>
-        <td><i>Python, pyshark, win32evtlog.</i></td>
+        <td><a href="https://github.com/Xacone/ProcessExtractorCTI/tree/main"><b>Windows Executable Information Extractor for Threat Hunting</b></a></td>
+        <td><i>Python, pyshark, Win32 API</i></td>
     </tr>
     <tr>
       <td><a href="https://github.com/ESIR2-PROJET-KEOLIS/processing-storage-unit"><b>Real-Time Data Processing Unit & API<i> (Part of a large academic project)</i></b></a></td>
