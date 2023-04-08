@@ -28,6 +28,10 @@
       <td><i>C++, QT.</i></td>
     </tr>
     <tr>
+      <td><a href="https://github.com/Xacone/AMSI-DLL-Injection"><b>A crafted/AMSI-Bypassing injectable DLL for establishing an undetected Reverse Shell using Microsoft Detours</b></a></td>
+      <td><i>C++, Win32 API.</i></td>
+    </tr>
+    <tr>
       <td><a href="https://github.com/Xacone/Linux-LFI-Harvester"><b>Linux System Information Harvesting Tool through LFI vulnerability</b></a></td>
       <td><i>Python.</i></td>
     </tr>
@@ -38,7 +42,7 @@
     </tr>
     <tr>
         <td><a href="https://github.com/Xacone/ProcessExtractorCTI/tree/main"><b>Windows Executable Information Extractor for Threat Hunting</b></a></td>
-        <td><i>Python, pyshark, Win32 API</i></td>
+        <td><i>Python, pyshark, Win32 API.</i></td>
     </tr>
     <tr>
       <td><a href="https://github.com/ESIR2-PROJET-KEOLIS/processing-storage-unit"><b>Real-Time Data Processing Unit & API<i> (Part of a large academic project)</i></b></a></td>
@@ -50,7 +54,7 @@
     </tr>
     <tr>
       <td><a href="https://github.com/J-Bindel/DE_MITRE_MALWARE"><b>Data Engineering Project - Malware Analysis <i>(Academic Project)</i></b></a></td>
-      <td><i>MITRE ATT&CK, WIN32 API, Python, Numpy, Pandas, BeautifulSoup.</i></td>
+      <td><i>MITRE ATT&CK, Win32 API, Python, Numpy, Pandas, BeautifulSoup.</i></td>
     </tr>
     <tr>
       <td><a href=""><b>Compiler for the <i>While</i> Programming Language<i> (Academic Project)</i></b></a></td>
