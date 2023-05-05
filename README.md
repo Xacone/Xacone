@@ -44,7 +44,7 @@
     </tr>
     <tr>
       <td><a href="https://github.com/ESIR2-PROJET-KEOLIS/processing-storage-unit"><b>Real-Time Data Processing Unit & API<i> (Part of a large academic project)</i></b></a></td>
-      <td><i>Java, Spring, Docker, Maven, RabbitMQ, Sqlite3.</i></td>
+      <td><i>Java, Spring, Docker, Maven, RabbitMQ, MySql.</i></td>
     </tr>
     <tr>
       <td><a href="https://gitlab.istic.univ-rennes1.fr/ybenjamaa/esir-al-s7-projet"><b>Microservice decomposition of a web application <i>(Academic Project)</i></b></a></td>
