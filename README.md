@@ -47,7 +47,11 @@
       <td><i>Java, Spring, Docker, Maven, RabbitMQ, MySql.</i></td>
     </tr>
     <tr>
-      <td><a href="https://gitlab.istic.univ-rennes1.fr/ybenjamaa/esir-al-s7-projet"><b>Microservice decomposition of a web application <i>(Academic Project)</i></b></a></td>
+      <td><a href="https://github.com/Xacone/SimulativeMalwares"><b>Simulative Malwares for Data Generation</i></b></a></td>
+      <td><i>C++.</i></td>
+    </tr>
+    <tr>
+      <td><a href="https://gitlab.istic.univ-rennes1.fr/ybenjamaa/esir-al-s7-projet"><b>Microservice Decomposition of a Web Application <i>(Academic Project)</i></b></a></td>
       <td><i>Docker, Quarkus, Maven, RabbitMQ, NestJS, Angular, Nginx, PostgreSQL, Terraform.</i></td>
     </tr>
     <tr>
