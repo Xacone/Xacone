@@ -40,7 +40,7 @@
     </tr>
     <tr>
         <td><a href="https://github.com/Xacone/ProcessExtractorCTI/tree/main"><b>Windows Executable Information Extractor for Threat Hunting</b></a></td>
-        <td><i>Python, pyshark, Win32 API.</i></td>
+        <td><i>Python, pyshark, Win32 API, Selenium, BeautifulSoup, MITRE ATT&CK</i></td>
     </tr>
     <tr>
       <td><a href="https://github.com/ESIR2-PROJET-KEOLIS/processing-storage-unit"><b>Real-Time Data Processing Unit & API<i> (Part of a large academic project)</i></b></a></td>
