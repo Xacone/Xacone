@@ -11,6 +11,8 @@
 <a href="https://app.hackthebox.com/users/1400723"><img src="https://img.shields.io/badge/-HackTheBox-%239FEF00?style=for-the-badge&logo=hackthebox&logoColor=white" alt="HackTheBox" width="12%"></a>
 <br>
 
+<img src="https://github-profile-trophy.vercel.app/?username=Xacone&theme=juicyfresh&no-bg=true" />
+
 <h2> ✨ Some of my public repositories ✨ </h2>
 <table>
   <thead align="center">
