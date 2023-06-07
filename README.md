@@ -19,12 +19,15 @@
       <td><b>👾 Technologies</b></td>
     </tr>
   </thead>
-  <tbody>
       <td><a href="https://github.com/Xacone/Sprototype_Base_x64_Malware_Analysis"><b>Lightweight Security Information and Event Management Tool (GUI for a future malware network activity monitoring tool)</b></a></td>
       <td><i>C++, C, QT, JavaScript, Npcap, Win32 API, WFP.</i></td>
     <tr>
       <td><a href="https://github.com/Xacone/Sproto_Agent_WinX64"><b>Remote TCP sensor</b></a></td>
       <td><i>C++, QT.</i></td>
+  </tr>
+    <tr>
+      <td><a href="https://github.com/Xacone/RemoteReflectiveDLLInjection"><b>Reflective DLL injection with remote DLL retrieval </b></a></td>
+      <td><i>C++.</i></td>
     </tr>
     <tr>
       <td><a href="https://github.com/Xacone/AMSI-DLL-Injection"><b>A crafted/AMSI-Bypassing injectable DLL for establishing an undetected Reverse Shell using Microsoft Detours</b></a></td>
