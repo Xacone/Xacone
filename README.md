@@ -19,13 +19,8 @@
       <td><b>👾 Technologies</b></td>
     </tr>
   </thead>
-      <td><a href="https://github.com/Xacone/Sprototype_Base_x64_Malware_Analysis"><b>Lightweight Security Information and Event Management Tool (GUI for a future malware network activity monitoring tool)</b></a></td>
-      <td><i>C++, C, QT, JavaScript, Npcap, Win32 Api, WFP.</i></td>
-    <tr>
-      <td><a href="https://github.com/Xacone/Sproto_Agent_WinX64"><b>Remote TCP sensor</b></a></td>
-      <td><i>C++, QT.</i></td>
-  </tr>
-    <tr>
+ 
+  <tr>
       <td><a href="https://github.com/Xacone/RemoteReflectiveDLLInjection"><b>Reflective DLL injection with remote retrieval of the DLL from a Git repository</b></a></td>
       <td><i>C++, Win32 Api.</i></td>
     </tr>
@@ -38,7 +33,15 @@
       <td><i>Python.</i></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/Xacone/REMOTE-DLL-UNHOOKER"><b>(POC) Simple DLL-Unhooked Reverse Shell for Antivirus Evasion</b></a></td>
+      <td><a href="https://github.com/Xacone/Sprototype_Base_x64_Malware_Analysis"><b>Lightweight Security Information and Event Management Tool (GUI for a future malware network activity monitoring tool)</b></a></td>
+      <td><i>C++, C, QT, JavaScript, Npcap, Win32 Api, WFP.</i></td>
+  </tr> 
+  <tr>
+      <td><a href="https://github.com/Xacone/Sproto_Agent_WinX64"><b>Remote TCP sensor</b></a></td>
+      <td><i>C++, QT.</i></td>
+  </tr>
+    <tr>
+      <td><a href="https://github.com/Xacone/REMOTE-DLL-UNHOOKER"><b>Simple NTDLL-Unhooked Reverse Shell</b></a></td>
       <td><i>C++.</i></td>
     </tr>
     <tr>
