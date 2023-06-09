@@ -11,7 +11,7 @@
 <a href="https://app.hackthebox.com/users/1400723"><img src="https://img.shields.io/badge/-HackTheBox-%239FEF00?style=for-the-badge&logo=hackthebox&logoColor=white" alt="HackTheBox" width="12%"></a>
 <br>
 
-<h2> ✨ Some of my public repositories ✨ </h2>
+<h2> ✨ Some of my repositories ✨ </h2>
 <table>
   <thead align="center">
     <tr border: none;>
