@@ -19,7 +19,11 @@
       <td><b>👾 Technologies</b></td>
     </tr>
   </thead>
- 
+
+   <tr>
+      <td><a href=""><b>Malicious Binary Shellcode Droppers with Multi-levels Direct Syscalls</b></a></td>
+      <td><i>C++, Win32 Api.</i></td>
+    </tr>
   <tr>
       <td><a href="https://github.com/Xacone/RemoteReflectiveDLLInjection"><b>Reflective DLL injection with remote retrieval of the DLL from a Git repository</b></a></td>
       <td><i>C++, Win32 Api.</i></td>
