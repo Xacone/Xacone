@@ -20,6 +20,12 @@
     </tr>
   </thead>
 
+
+   <tr>
+      <td><a href="https://github.com/Xacone/DynamicLinkingReverseShell"><b>Reverse Shell (Shellcode Template) with Functions Dynamic-Linking on Runtime.</b></a></td>
+      <td><i>C++.</i></td>
+    </tr>
+  <tr>
    <tr>
       <td><a href=""><b>Malicious Binary Shellcode Droppers with Multi-levels Direct Syscalls</b></a></td>
       <td><i>C++, Win32 Api.</i></td>
