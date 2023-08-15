@@ -2,21 +2,23 @@
   <img src="https://media.tenor.com/bCfpwMjfAi0AAAAC/cat-typing.gif" alt="animated" width="36%"/>
 </p>
 
-😸 Hi, I’m @Xacone (Yazid) <br>
-👽 I’m interested in <b>Cybersecurity</b> and all its aspects, <b>CTI</b> and <b>Programming</b> <br>
-🌍 I’m currently a computer science engineering student at ESIR (University of Rennes) in France <br>
-📫 You can reach me at : yazid.benjamaa@etudiant.univ-rennes1.fr or benjamaayazid21@gmail.com <br>
-
+<div align="center"><i>
+<h3> @Xacone (Yazid) </h3>
+☃️ <b>Cybersecurity</b> enthusiast <br>
+  🌠 <b><a href="https://xacone.github.io">xacone.github.io</a></b><br>
+👾 Computer Science engineering student @ESIR (University of Rennes) <br>
+📫 yazid.benjamaa@etudiant.univ-rennes1.fr / benjamaayazid21@gmail.com <br><br>
 <a href="https://www.linkedin.com/in/yazid-benjamaa/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" width="10%"></a>
 <a href="https://app.hackthebox.com/users/1400723"><img src="https://img.shields.io/badge/-HackTheBox-%239FEF00?style=for-the-badge&logo=hackthebox&logoColor=white" alt="HackTheBox" width="12%"></a>
-<br>
+<br></div>
+</i>
 
 <h2> ✨ Some of my repositories ✨ </h2>
 <table>
   <thead align="center">
     <tr border: none;>
       <td><b>📘 Projects</b></td>
-      <td><b>👾 Technologies</b></td>
+      <td><b>🛠️ Technologies</b></td>
     </tr>
   </thead>
 
@@ -94,8 +96,8 @@
 </table>
 <h4><i>Github & profile page under construction..🏗️🚧</i></h4>
 
-<h2> 🌐 Organizations 🚌 </h2>
-<h3><b><a href="https://github.com/ESIR2-PROJET-KEOLIS">Keolis Project</a> (ESIR)
+<h2> 🌐 Organizations  </h2>
+<h3><b><a href="https://github.com/ESIR2-PROJET-KEOLIS">Keolis Project</a> (ESIR) 🚌
 
 <br><br>
 <!--<img align="center" src="https://github-readme-stats.vercel.app/api?username=Xacone&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>-->
