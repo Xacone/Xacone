@@ -24,6 +24,10 @@
 
 
    <tr>
+      <td><a href="https://github.com/Xacone/BestEdrOfThemarket"><b>Best EDR of the Market: An Antivirus/EDR Evasion Lab for Understanding and Bypassing Defensive Approaches.</b></a></td>
+      <td><i>C++, Win32 Api.</i></td>
+    </tr>
+   <tr>
       <td><a href="https://github.com/Xacone/DynamicLinkingReverseShell"><b>Reverse Shell (Shellcode Template) with Functions Dynamic-Linking on Runtime.</b></a></td>
       <td><i>C++.</i></td>
     </tr>
