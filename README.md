@@ -1,6 +1,8 @@
+<!--
 <p align="center">
   <img src="https://media.tenor.com/bCfpwMjfAi0AAAAC/cat-typing.gif" alt="animated" width="36%"/>
 </p>
+-->
 
 <div align="center"><i>
 <h3> @Xacone (Yazid) </h3>
