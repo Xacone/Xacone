@@ -1,6 +1,6 @@
 <div align="center"><i>
 <h3> @Xacone (Yazid) </h3>
-Cybersecurity stuff & pancakes 🥞<br>
+Infosec stuff & code attempts<br>
 <b><a href="https://xacone.github.io">xacone.github.io</a></b><br>
 Computer Science engineering student @ESIR   (University of Rennes, France)<br>
 benjamaayazid21[at]gmail[dot]com <br><br>
